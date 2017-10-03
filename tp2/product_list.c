@@ -3,7 +3,7 @@
  * @author Alexandre Lombard
  */
 
-#include "product_list.h"
+#include <product_list.h>
 
 #ifndef NULL
 #define NULL 0

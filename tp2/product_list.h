@@ -6,7 +6,7 @@
  * @author Alexandre Lombard
  */
 
-#include "product.h"
+#include <product.h>
 
 #define TRUE 1
 #define FALSE 0

@@ -3,7 +3,7 @@
  * @author Alexandre Lombard
  */
 
-#include "product.h"
+#include <product.h>
 
 #include <stdio.h>
 

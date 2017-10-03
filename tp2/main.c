@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-#include "product_list.h"
+#include <product_list.h>
 
 int main(int argc, char* argv[])
 {
